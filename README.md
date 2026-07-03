@@ -1,3 +1,5 @@
+*For English, please see [README_EN.md](README_EN.md)*
+
 # Basic Computer (Basit Bilgisayar) Simülasyonu
 
 Bu proje, Proteus ortamında **temel mantık kapıları ve entegre devreler (IC)** kullanılarak tasarlanmış bir Basit Bilgisayar (Basic Computer) simülasyonunu içermektedir. Temel bilgisayar mimarisini ve işlemcilerin çalışma mantığını anlamak için harika bir örnektir.
